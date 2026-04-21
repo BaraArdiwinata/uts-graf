@@ -1,0 +1,12 @@
+# Python & Jupyter Cache
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Environment (kalau kamu pake virtual env)
+env/
+venv/
+.env
+
+# MacOS hidden files (kalau kamu pake Mac)
+.DS_Store
