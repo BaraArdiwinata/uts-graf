@@ -3,8 +3,8 @@
 Proyek UTS Mata Kuliah Graf - Departemen Sistem Informasi, Institut Teknologi Sepuluh Nopember (ITS).
 
 ## 👥 Tim Proyek
-- **Annisa Nur Fauzi** (Data Engineer / Menteri Data)
-- **Bara Ardiwinata** (Graph Analyst / Menteri Analisis)
+- **Annisa Nur Fauzi** 5026231228
+- **Bara Ardiwinata** 5026231232
 
 ## 📌 Deskripsi Proyek
 Proyek ini mengintegrasikan data silsilah kerajaan Nusantara dari **Wikidata** (untuk topologi relasi kekerabatan) dan **DBpedia** (untuk pengayaan atribut sejarah seperti ibu kota, agama, dan suksesi). Kami membangun *Knowledge Graph* untuk mengungkap koneksi tersembunyi di balik peta kekuasaan kerajaan-kerajaan besar di Indonesia melalui pendekatan *Linked Open Data* (LOD).
